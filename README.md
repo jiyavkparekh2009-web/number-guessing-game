@@ -59,6 +59,7 @@ Enter the number again : 75
 Too High!
 
 Enter the number again : 68
+Too High!
 Congratulations! You guessed the correct number.
 
 Total Attempts: 3
